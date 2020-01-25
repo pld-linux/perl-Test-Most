@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	Most
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Most - Most commonly needed test functions and features
 Summary(pl.UTF-8):	Test::Most - najczęściej potrzebne funkcje testowe
 Name:		perl-Test-Most
